@@ -1,0 +1,14 @@
+patch:
+  style/horizontal: true
+  style/inline_preedit: false
+  style/font_point: 15
+  style/comment_font_point: 14
+  style/label_font_point: 14
+  style/corner_radius: 6
+  style/spacing: 6
+  style/text_orientation: horizontal
+  style/font_face: SF NS Display
+  app_options: {}
+  preset_color_schemes:
+    native:
+      name: "系統配色"
