@@ -1,6 +1,6 @@
 patch:
   style/horizontal: true
-  style/inline_preedit: false
+  # style/inline_preedit: false
   style/font_point: 15
   style/comment_font_point: 14
   style/label_font_point: 14
@@ -11,4 +11,4 @@ patch:
   app_options: {}
   preset_color_schemes:
     native:
-      name: "系統配色"
+      name: '系統配色'
